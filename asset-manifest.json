@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sheep-ctn/static/css/main.073c9b0a.css",
+    "main.js": "/sheep-ctn/static/js/main.fc7d97e1.js",
+    "static/js/787.2f53979f.chunk.js": "/sheep-ctn/static/js/787.2f53979f.chunk.js",
+    "static/media/logo.svg": "/sheep-ctn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sheep-ctn/index.html",
+    "main.073c9b0a.css.map": "/sheep-ctn/static/css/main.073c9b0a.css.map",
+    "main.fc7d97e1.js.map": "/sheep-ctn/static/js/main.fc7d97e1.js.map",
+    "787.2f53979f.chunk.js.map": "/sheep-ctn/static/js/787.2f53979f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc7d97e1.js"
+  ]
+}
